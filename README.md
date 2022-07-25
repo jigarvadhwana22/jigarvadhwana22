@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jigarvadhwana22
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Html5, CSS3 , ReactJS
 - 📫 How to reach me jigarvadhwana22@gmail.com
 
 <!---
